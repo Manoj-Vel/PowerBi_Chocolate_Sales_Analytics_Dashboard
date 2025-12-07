@@ -4,6 +4,8 @@ Use the Dashboard here - [App PowerBi Link](https://app.powerbi.com/view?r=eyJrI
 
 ![Analytics Dashboard](Chocolate_Sales_Analytics_Dashboard.png)
 
+✅𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
+
 - This repository contains an interactive Chocolate Sales Dashboard built using Power BI.
 - The project includes complete Power query data cleaning, data modeling, DAX calculations and visual storytelling.
 - The goal is to analyze chocolate sales performance across products, countries, sales persons and category to help stakeholders make data-driven decisions.
